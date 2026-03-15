@@ -3,8 +3,8 @@ class TuiInput < Formula
 
   desc "Persistent tmux input bar for TUI agents"
   homepage "https://github.com/maked-dev/tui-input"
-  url "https://github.com/maked-dev/tui-input/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d7cdec7981326d991bc1beffd4197dba0c2330e5aa4cabcbee4d8f9c4e4097a8"
+  url "https://github.com/maked-dev/tui-input/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "3eed6a7c8cfd2add067be623cc2c34a8be6342aba554864c3bc9a2d811de1646"
   license "MIT"
 
   depends_on "python@3.13"
